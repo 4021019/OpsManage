@@ -28,7 +28,7 @@
 ```
 # yum install zlib zlib-devel readline-devel sqlite-devel bzip2-devel openssl-devel gdbm-devel libdbi-devel ncurses-libs kernel-devel libxslt-devel libffi-devel python-devel zlib-devel openldap-devel sshpass gcc git -y
 # yum install http://www.percona.com/downloads/percona-release/redhat/0.1-6/percona-release-0.1-6.noarch.rpm
-# yum install Percona-Server-server-56 install Percona-Server-devel-56
+# yum install Percona-Server-server-56 install Percona-Server-devel-56   ##可以用使用其他版本
 # wget https://www.python.org/ftp/python/3.6.6/Python-3.6.6.tgz  #CentOS 7不用安装python2.7
 # tar -xzvf Python-3.6.6.tgz
 # cd Python-3.6.6
